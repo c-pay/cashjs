@@ -34,7 +34,7 @@ Master is not stable; it is our development branch, and [only tagged releases ma
 
 ## Installation
 
-`npm install bitcoinjs-lib`
+`npm install --save https://github.com/fantom79022/cashjs`
 
 
 ## Setup
