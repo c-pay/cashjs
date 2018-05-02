@@ -99,8 +99,8 @@ The definitions are complete and up to date with version 2.2.0. The definitions 
 
 The below examples are implemented as integration tests, they should be very easy to understand.  Otherwise, pull requests are appreciated.
 
-- [Generate a random LCC address](https://github.com/fantom79022/cashjs/blob/master/test/integration/basic.js#L20)
-- [Create a LCC Transaction](https://github.com/fantom79022/cashjs/blob/master/test/integration/basic.js#L62)
+- [Generate a random LCC address](https://github.com/fantom79022/cashjs/blob/master/test/integration/basic.js#L9)
+- [Create a LCC Transaction](https://github.com/fantom79022/cashjs/blob/master/test/integration/basic.js#L30)
 
 If you have a use case that you feel could be listed here, please [ask for it](https://github.com/bitcoinjs/bitcoinjs-lib/issues/new)!
 
